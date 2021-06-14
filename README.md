@@ -4,3 +4,6 @@ Usage: Just run `python pdf2texture.py`. It will scan all pdf files in `source/`
 If the PDF file contains more than 100 pages, multiple images are generated.
 
 I used this to import a book into Neos VR. Not sure where this code can be useful.
+
+Output example:
+![image](result/동백꽃.png)
